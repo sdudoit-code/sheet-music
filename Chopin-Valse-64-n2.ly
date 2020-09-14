@@ -5,8 +5,12 @@
   composer = "Chopin"
 }
 
+
 \score {
+  
   \relative c' {
+    \time 3/4 
+
     c4
   }
 
