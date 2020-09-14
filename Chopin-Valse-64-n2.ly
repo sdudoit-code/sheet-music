@@ -8,10 +8,13 @@
 
 \score {
   
-  \relative c' {
-    \time 3/4 
+  \relative c'' {
 
-    c4
+    \time 3/4 
+    
+    g <g e'>2. <fisis d'>2.
+
+
   }
 
   \layout {}
